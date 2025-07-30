@@ -1,3 +1,4 @@
+// feature/initial-project-setup
 import requests
 from bs4 import BeautifulSoup
 import datetime
@@ -98,3 +99,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# Main application file for the web scraper.
